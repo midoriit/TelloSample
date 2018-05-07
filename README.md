@@ -1,2 +1,2 @@
 # TelloSample
-PythonでTelloを制御するサンプルプログラム
+Ryze社のトイドローン・TelloをPythonで制御するサンプルプログラムです。機能に制限がありますので飛行の際には注意が必要です。
