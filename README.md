@@ -6,4 +6,7 @@ Ryze社のトイドローン・TelloをPythonで制御するサンプルプロ�
 ![TelloController1](https://github.com/midoriit/TelloSample/blob/master/img/sample1.png)
 
 ### TelloController2.py
-![TelloController1](https://github.com/midoriit/TelloSample/blob/master/img/sample2.png)
+![TelloController2](https://github.com/midoriit/TelloSample/blob/master/img/sample2.png)
+
+### TelloController3.py
+![TelloController3](https://github.com/midoriit/TelloSample/blob/master/img/sample3.png)
